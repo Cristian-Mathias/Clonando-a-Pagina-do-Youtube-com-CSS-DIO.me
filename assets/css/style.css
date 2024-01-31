@@ -1,0 +1,147 @@
+
+* {
+    padding:0;
+    border:0;
+    }
+    header {
+        width: 1100px;
+        height: 56px;
+        background-color: #FFFFFF;
+    }
+    .navegacao{
+        width: 1050px;
+        height: 48px;
+        margin: 8px;
+        display: flex;
+        align-items:center;
+        justify-content:space-between;
+    }
+    .menu {
+        width: 140px;
+        height: 24px;
+        margin: 5px;
+        display: flex;
+        justify-content:space-between; 
+      }
+    .imgMenu{
+        width: 24px;
+        height: 24px;
+    }
+    .imgYotube{
+        width: 90px;
+        height: 20px;  
+    }
+    .pesquisar{
+        width: 300px;
+        height: 24px;
+        border: solid 1px #cccccc;
+        display: flex;
+        justify-content:space-between;
+    }
+    .imgPesquisar{
+        width: 300px;
+        height: 24px;
+    }
+    .right{
+        width: 130px;
+        height: 24px;
+        display: flex;
+        justify-content:space-between;
+    }
+    .imgAvatar{
+        border: solid 2px #cccccc;
+        border-radius: 50%;
+    }
+    main{
+        width: 660px;
+        height: 746px;
+        margin-top:0px ;
+        margin-left: 60px;
+        display: inline-block;/*  */
+    }
+    .imagemVideo{
+        width: 660px;
+        height: 360px;
+    }
+    main div p{
+        margin: 10px;
+        font-family:'roboto';
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .videoActions{
+        width: 630px;
+        height: 42px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 10px 0;/*  */
+    }
+    .infos img{
+        width: 120px;
+        height: 32px;
+    }
+    .button img{
+        width: 120px;
+        height: 30px;
+    }
+    .like img{
+        width: 45px;
+        height: 25px;
+    }
+    .deslike img{
+        width: 65px;
+        height: 25px;
+    }
+    .share img{
+        width: 70px;
+        height: 20px;
+    }
+    .download img{
+        width: 60px;
+        height: 20px;
+    }
+    .preview p{
+        width: 391px;
+        height: 16px;
+        font-family: 'roboto';
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 16px;
+        color: #000000;
+    }
+    .videoInformation p{
+        width: 510px;
+        height: 64px;
+        font-family: 'roboto';
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 16.41px;
+        color: #515151;
+    }
+    .sidebar{
+        width: 320px;
+        height: 938px;
+        margin-top:0px ;
+        margin-left: 16px;
+        display: inline-block;
+        vertical-align: top;  
+        
+    } 
+    .sidebarVideo {
+        width: 160px;
+        height: 90px;
+        display:flex;
+        flex-direction: row;
+        box-sizing: border-box;
+        margin: 0 0 16px 0; 
+        
+    }
+    .sidebarVideo img{
+        width: 160px;
+        height: 90px;
+        margin: 0 5px 0 0; 
+    }
+
+    
+  
